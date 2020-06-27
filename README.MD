@@ -1,8 +1,8 @@
 # Natural-Language-Processing (NLP)
 
-{   FSA( finite-state automaton) for Tamil - Handwritten Rules](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/FSA_Tamil)
+[FSA( finite-state automaton) for Tamil - Handwritten Rules](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/FSA_Tamil)
 
-## Task - 1
+## Task - 1:
     
    1 . [Explore NLTK Corpus and Lexicons](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Corpus%20%26%20lexicons)
 
@@ -10,7 +10,7 @@
 
    3 . [Cosine Simmilarity](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Cosine_simmilarity)
 
-## Task -2
+## Task -2:
    
    4 . [Embedding and Chunking](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Embedding%20%26%20Chunking)
 
