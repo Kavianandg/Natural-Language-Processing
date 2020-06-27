@@ -1,6 +1,10 @@
 <h1 style=\"color:blue;\" style=\"font-family:georgia;\"><i><b>CSE6060</b></i></h1>
 <h1 style=\"color:blue;\" style=\"font-family:georgia;\"><i>Statistical Natural Language Processing</i></h1>
 
+<h3>Name : Kavianand G</h3>
+<h3>Reg. No. : 19MAI0050</h3>
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+![#f03c15](KAVIANAND G) `#f03c15`
 # Natural-Language-Processing (NLP)
 
 [FSA( finite-state automaton) for Tamil - Handwritten Rules](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/FSA_Tamil)
