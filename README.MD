@@ -1,8 +1,8 @@
 <h1 style=\"color:blue;\" style=\"font-family:georgia;\"><i><b>CSE6060</b></i></h1>
 <h1 style=\"color:blue;\" style=\"font-family:georgia;\"><i>Statistical Natural Language Processing</i></h1>
 
-<h3>style=\"color:blue;\" style=\"font-family:georgia;\"><i>Name     : Kavianand G</i></h3>
-<h3>style=\"color:blue;\" style=\"font-family:georgia;\"><i>Reg. No. : 19MAI0050</i></h3>
+<h3 style=\"color:blue;\" style=\"font-family:georgia;\"><i>Name     : Kavianand G</i></h3>
+<h3 style=\"color:blue;\" style=\"font-family:georgia;\"><i>Reg. No. : 19MAI0050</i></h3>
 
 
 ## List of Tasks
