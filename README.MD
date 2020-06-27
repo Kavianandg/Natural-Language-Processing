@@ -13,9 +13,9 @@
     
    1 . [Explore NLTK Corpus and Lexicons](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Corpus%20%26%20lexicons)
 
-   2 . [Stemming - Tokkenization - POS tagging](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Stemming_tokkenization_pos-tagging)
+   2 . [Stemming - Tokenization - POS tagging](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Stemming_tokkenization_pos-tagging)
 
-   3 . [Cosine Simmilarity](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Cosine_simmilarity)
+   3 . [Cosine Similarity](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Cosine_simmilarity)
 
 ### [Task - 2:](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Task_2)
    
