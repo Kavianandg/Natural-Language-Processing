@@ -4,7 +4,7 @@ FSA( finite-state automaton) for Tamil - Handwritten Rules
 
 Task - 1
     
-       1 . Explore NLTK Corpus and Lexicons
+       1 . [Explore NLTK Corpus and Lexicons](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Corpus%20%26%20lexicons)
 
        2 . Stemming - Tokkenization - POS tagging
 
