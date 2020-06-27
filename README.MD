@@ -17,7 +17,7 @@
 
    3 . [Cosine Simmilarity](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Cosine_simmilarity)
 
-### [Task -2:](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Task_2)
+### [Task - 2:](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Task_2)
    
    4 . [Embedding and Chunking](https://github.com/Kavianandg/Natural-Language-Processing/tree/master/Embedding%20%26%20Chunking)
 
